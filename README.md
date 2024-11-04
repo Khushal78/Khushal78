@@ -13,7 +13,7 @@
 
 - 💻 **Explore My Projects:** Visit [my GitHub repositories](https://github.com/Khushal78) to see my work in React, Node.js, MongoDB, Python, and more.
 
-- 📫 **Reach Me At:** khushal.jce21@sot.pdpu.ac.in
+- 📫 **Reach Me At:** jainkhushal36@gmail.com
 
 ---
 
