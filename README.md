@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushal Jain</h1>
-<h3 align="center">Full Stack Developer | Open Source Contributor | CSE '25 | Blockchain & Decentralized Systems Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Open Source Contributor | CSE '25 |</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khushal78&label=Profile%20views&color=0e75b6&style=flat" alt="khushal78" /> </p>
 
